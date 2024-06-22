@@ -1,4 +1,11 @@
 # Left 4 Dead 2 Workshop Mods
+
+[![README](https://img.shields.io/badge/Tab-README-red)](README.md)
+[![Page 1](https://img.shields.io/badge/Tab-Page%201-blue)](Page1.md)
+[![Documentation](https://img.shields.io/badge/Tab-Documentation-green)](Documentation.md)
+[![License](https://img.shields.io/badge/Tab-License-yellow)](LICENSE)
+
+---
 <!------------------------------- ----------------------------------->
 
 ``
