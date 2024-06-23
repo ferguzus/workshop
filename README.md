@@ -1,14 +1,14 @@
 [![Documentation](https://img.shields.io/badge/Documentation-green)](Documentation.md) [![License](https://img.shields.io/badge/License-purple)](LICENSE)
 ## <img src="https://cdn-icons-png.flaticon.com/128/561/561242.png" width="20" alt="bash"/> </a> Navigation
 
-[![Page 1](https://img.shields.io/badge/%201-green?style=for-the-badge&logoColor=gray)](docs/Page1.md)
-[![Page 2](https://img.shields.io/badge/%202-green?style=for-the-badge&logoColor=gray)](docs/Page2.md)
+[![Page 1](https://img.shields.io/badge/%201-greeny?style=for-the-badge&logoColor=gray)](docs/Page1.md)
+[![Page 2](https://img.shields.io/badge/%202-greeny?style=for-the-badge&logoColor=gray)](docs/Page2.md)
 [![Page 3](https://img.shields.io/badge/%203-greeny?style=for-the-badge&logoColor=gray)](docs/Page3.md)
-[![Page 4](https://img.shields.io/badge/%204-green?style=for-the-badge&logoColor=gray)](docs/Page4.md)
-[![Page 5](https://img.shields.io/badge/%205-green?style=for-the-badge&logoColor=gray)](docs/Page5.md)
-[![Page 6](https://img.shields.io/badge/%206-green?style=for-the-badge&logoColor=gray)](docs/Page6.md)
-[![Page 7](https://img.shields.io/badge/%207-green?style=for-the-badge&logoColor=gray)](docs/Page7.md)
-[![Page 8](https://img.shields.io/badge/%208-green?style=for-the-badge&logoColor=gray)](docs/Page8.md)
+[![Page 4](https://img.shields.io/badge/%204-greeny?style=for-the-badge&logoColor=gray)](docs/Page4.md)
+[![Page 5](https://img.shields.io/badge/%205-greeny?style=for-the-badge&logoColor=gray)](docs/Page5.md)
+[![Page 6](https://img.shields.io/badge/%206-greeny?style=for-the-badge&logoColor=gray)](docs/Page6.md)
+[![Page 7](https://img.shields.io/badge/%207-greeny?style=for-the-badge&logoColor=gray)](docs/Page7.md)
+[![Page 8](https://img.shields.io/badge/%208-greeny?style=for-the-badge&logoColor=gray)](docs/Page8.md)
 
 
 ---
