@@ -1,7 +1,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/561/561242.png" width="20" alt="bash"/> </a> Navigation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Documentation](https://img.shields.io/badge/Documentation-purple)](Documentation.md) [![License](https://img.shields.io/badge/License-violet)](LICENSE)
 
 
-[![README](https://img.shields.io/badge/all-red?style=for-the-badge&logoColor=gray)](README.md)
+[![README](https://img.shields.io/badge/Home-red?style=for-the-badge&logoColor=gray)](README.md)
 [![Page 1](https://img.shields.io/badge/%201-blue?style=for-the-badge&logoColor=gray)](docs/Page1.md)
 [![Page 2](https://img.shields.io/badge/%202-gray?style=for-the-badge&logoColor=gray)](docs/Page2.md)
 [![Page 3](https://img.shields.io/badge/%203-gray?style=for-the-badge&logoColor=gray)](docs/Page3.md)
@@ -15,4 +15,22 @@
 
 ---
 
+<h1>Repository Introduction</h1>
+<h3>Important Notice</h3>
+
+Some contents in this repository are ``not suitable for kids.`` Viewer discretion is advised. 
+<br>
+<br>
+<h1>About This Repository</h1>
+
+Welcome to my repository! Here, you will find a collection of mod links
+complete with thumbnails for easy browsing. Whether you are looking for
+new modifications or just exploring what's available, you'll find a variaty of
+mods curated and organized for your convenience.
+
+---
+
 <div align="center"> <img src="https://raw.githubusercontent.com/ferguzus/workshop/main/thumbnail.png"> </div>
+
+---
+
