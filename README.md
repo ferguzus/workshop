@@ -1,15 +1,14 @@
 # Left 4 Dead 2 Workshop Mods
 
 [![README](https://img.shields.io/badge/README-red)](README.md)
-[![Page 1](https://img.shields.io/badge/Tab-Page%201-blue)](docs/Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
+[![Page 1](https://img.shields.io/badge/Page%201-blue)](docs/Page1.md)
+[![Page 2](https://img.shields.io/badge/Page%201-blue)](docs/Page2.md)
+[![Page 3](https://img.shields.io/badge/Page%201-blue)](docs/Page3.md)
+[![Page 4](https://img.shields.io/badge/Page%201-blue)](docs/Page4.md)
+[![Page 5](https://img.shields.io/badge/Page%201-blue)](docs/Page5.md)
+[![Page 6](https://img.shields.io/badge/Page%201-blue)](docs/Page6.md)
+[![Page 7](https://img.shields.io/badge/Page%201-blue)](docs/Page7.md)
+[![Page 8](https://img.shields.io/badge/Page%201-blue)](docs/Page8.md)
 [![Documentation](https://img.shields.io/badge/Documentation-green)](Documentation.md)
 [![License](https://img.shields.io/badge/License-yellow)](LICENSE)
 
