@@ -53,3 +53,4 @@
 <h3>10. Yuudachi Replaces Common Infected - Kancolle</h3>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1348942096" target="_blank" rel="noreferrer"> 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/924802058716982638/4CCD0719B2862FF6974AFA92EEEF4C3A5E76C67A/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="bash"/> </a>
+<hr>
