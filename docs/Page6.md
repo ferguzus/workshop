@@ -9,8 +9,8 @@
 [![Page 6](https://img.shields.io/badge/%206-blue?style=for-the-badge&logoColor=gray)](Page6.md)
 [![Page 7](https://img.shields.io/badge/%207-gray?style=for-the-badge&logoColor=gray)](Page7.md)
 [![Page 8](https://img.shields.io/badge/%208-gray?style=for-the-badge&logoColor=gray)](Page8.md)
-[![Prev](https://img.shields.io/badge/<--Prev-green?style=for-the-badge&logoColor=gray)](Page4.md)
-[![Next](https://img.shields.io/badge/Next-->-green?style=for-the-badge&logoColor=gray)](Page6.md)
+[![Prev](https://img.shields.io/badge/<--Prev-green?style=for-the-badge&logoColor=gray)](Page5.md)
+[![Next](https://img.shields.io/badge/Next-->-green?style=for-the-badge&logoColor=gray)](Page7.md)
 
 ``
     Page 6
