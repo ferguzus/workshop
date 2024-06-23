@@ -1,6 +1,6 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/561/561242.png" width="20" alt="bash"/> </a> Navigation
 
-[![README](https://img.shields.io/badge/home-purple?style=for-the-badge&logoColor=gray)](README.md)
+[![README](https://img.shields.io/badge/home-purple?style=for-the-badge&logoColor=gray)](../README.md)
 [![Page 1](https://img.shields.io/badge/%201-blue?style=for-the-badge&logoColor=gray)](Page1.md)
 [![Page 2](https://img.shields.io/badge/%202-gray?style=for-the-badge&logoColor=gray)](Page2.md)
 [![Page 3](https://img.shields.io/badge/%203-gray?style=for-the-badge&logoColor=gray)](Page3.md)
