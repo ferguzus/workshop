@@ -1,7 +1,7 @@
 # Left 4 Dead 2 Workshop Mods
 
 [![README](https://img.shields.io/badge/README-red)](README.md)
-[![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
+[![Page 1](https://img.shields.io/badge/Tab-Page%201-blue)](docs/Page1.md)
 [![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
 [![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
 [![Page 1](https://img.shields.io/badge/Page%201-blue)](Page1.md)
