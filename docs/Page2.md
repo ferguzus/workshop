@@ -1,4 +1,4 @@
-## Navigation
+## <img src="https://cdn-icons-png.flaticon.com/128/561/561242.png" width="20" alt="bash"/> </a> Navigation
 
 [![README](https://img.shields.io/badge/all-red?style=for-the-badge&logoColor=gray)](README.md)
 [![Page 1](https://img.shields.io/badge/%201-gray?style=for-the-badge&logoColor=gray)](docs/Page1.md)
